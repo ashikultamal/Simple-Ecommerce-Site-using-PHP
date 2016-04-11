@@ -1,0 +1,10 @@
+.product{
+    min-height: 156px;
+
+}
+.caption{
+    height: auto;
+}
+.slide-image{
+    max-height: 400px !important;
+}
